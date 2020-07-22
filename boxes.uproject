@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Enterprise": true,
+	"Plugins": [
+		{
+			"Name": "HoudiniNiagara",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
+}
